@@ -32,11 +32,11 @@ This project uses the Telco Customer Churn dataset to build a classification mod
 
 **Input form:**
 
-![App input form](screenshots/app_form.png)
+![App input form](app_form.png)
 
 **Prediction result:**
 
-![App prediction result](screenshots/app_result.png)
+![App prediction result](app_result.png)
 
 ## Tech Stack
 
